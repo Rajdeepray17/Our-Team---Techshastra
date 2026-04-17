@@ -3,9 +3,8 @@ export const teams = {
         { name: "Dr. Santimoy Mandal", role: "Dean, School of Engineering", image: "/IMGs/Santimoy.png", website: "https://nsuniv.ac.in/all_faculty/santimoy-mandal/" },
         { name: "Mr. Rahul Kumar Lohra", role: "HOD, Civil Engineering", image: "/IMGs/Rahul.png", website: "https://nsuniv.ac.in/all_faculty/rahul-kumar-lohra/" },
         { name: "Mr. Surya Prakash Rao", role: "Event Incharge, Computer Science and IT", image: "/IMGs/Surya.png", website: "https://nsuniv.ac.in/all_faculty/p-surya-prakash-rao-2/" },
-        { name: "Dr. Ghulam Anwer", role: "HOD, Mechanical Engineering", image: "/IMGs/Anwer.png", website: "https://nsuniv.ac.in/all_faculty/santimoy-mandal/" },
-        { name: "Mr. Rahul Kumar Lohra", role: "HOD, Civil Engineering", image: "/IMGs/Rahul.png", website: "https://nsuniv.ac.in/all_faculty/rahul-kumar-lohra/" },
-        { name: "Mr. Lal Kishore Kumar", role: "HOD, Department of IT", image: "/IMGs/LK.png", website: "https://nsuniv.ac.in/all_faculty/p-surya-prakash-rao-2/" },
+        { name: "Dr. Ghulam Anwer", role: "HOD, Mechanical Engineering", image: "/IMGs/Anwer.png", website: "https://nsuniv.ac.in/all_faculty/dr-ghulam-anwer/" },
+        { name: "Mr. Lal Kishore Kumar", role: "HOD, Department of IT", image: "/IMGs/LK.png", website: "https://nsuniv.ac.in/all_faculty/lal-kishore-kumar/" },
     ],
     core: [
         /*
